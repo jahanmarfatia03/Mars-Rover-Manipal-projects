@@ -1,4 +1,6 @@
-![Mars Rover Manipal Team Logo](certificates/MRM_Logo.png)
+<img src="certificates/MRM_Logo.png" alt="Mars Rover Manipal Team Logo" width="20%"/>
+
+# 🚀 Mars Rover Manipal...
 
 # 🚀 Mars Rover Manipal (MRM) - Electronics and Control Systems Projects
 
@@ -47,7 +49,7 @@ The following images confirm my involvement and the team's competitive standing:
 
 | International Rover Challenge (IRC) Certificate | European Rover Challenge (ERC) Certificate |
 | :---: | :---: |
-| ![IRC 1st Place Certificate](certificates/IRC_Certificate.jpg) | ![ERC 10th Place Certificate](certificates/ERC_Certificate.jpg) |
+| <img src="certificates/IRC_Certificate.jpg" alt="IRC 1st Place Certificate" width="100%"/> | <img src="certificates/ERC_Certificate.jpg" alt="ERC 10th Place Certificate" width="100%"/> |
 
 ***
 *Connect with me on [Your LinkedIn Profile Link]*
