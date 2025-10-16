@@ -49,7 +49,7 @@ The following images confirm my involvement and the team's competitive standing:
 
 | International Rover Challenge (IRC) Certificate | European Rover Challenge (ERC) Certificate |
 | :---: | :---: |
-| <img src="certificates/IRC_Certificate.jpg" alt="IRC 1st Place Certificate" width="100%"/> | <img src="certificates/ERC_Certificate.jpg" alt="ERC 10th Place Certificate" width="100%"/> |
+| <img src="certificates/IRC_Certificate.png" alt="IRC 1st Place Certificate" width="100%"/> | <img src="certificates/ERC_Certificate.jpg" alt="ERC 10th Place Certificate" width="100%"/> |
 
 ***
 *Connect with me on [Your LinkedIn Profile Link]*
