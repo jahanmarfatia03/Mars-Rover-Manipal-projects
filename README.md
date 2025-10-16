@@ -1,10 +1,12 @@
+![Mars Rover Manipal Team Logo](certificates/MRM_Logo.png)
+
 # 🚀 Mars Rover Manipal (MRM) - Electronics and Control Systems Projects
 
 This repository showcases my contributions to the Electronics and Control Systems team of **Mars Rover Manipal (MRM)**, Manipal Academy of Higher Education (MAHE)'s official rover design team. We are a research-focused team of undergraduate students dedicated to designing and building a functional Mars rover for global competitions.
 
 My tenure was in 2025, during which the team achieved significant competitive success:
 
-* **1st Place** in the International Rover Challenge (IRC)
+* **1st Place** in the **International Rover Challenge (IRC)**
 * **10th Place** in the European Rover Challenge (ERC)
 
 ---
@@ -43,9 +45,9 @@ This repository is organized for clarity, allowing easy navigation for reviewers
 
 The following images confirm my involvement and the team's competitive standing:
 
-| MRM Team Logo | International Rover Challenge (IRC) Certificate | European Rover Challenge (ERC) Certificate |
-| :---: | :---: | :---: |
-| ![Mars Rover Manipal Team Logo](certificates/MRM_Logo.png) | ![IRC 1st Place Certificate](certificates/IRC_Certificate.jpg) | ![ERC 10th Place Certificate](certificates/ERC_Certificate.jpg) |
+| International Rover Challenge (IRC) Certificate | European Rover Challenge (ERC) Certificate |
+| :---: | :---: |
+| ![IRC 1st Place Certificate](certificates/IRC_Certificate.jpg) | ![ERC 10th Place Certificate](certificates/ERC_Certificate.jpg) |
 
 ***
 *Connect with me on [Your LinkedIn Profile Link]*
