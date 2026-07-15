@@ -16,9 +16,9 @@ Most of this work involved coordinating with the Mechanical, Software, and AI te
 
 ## Repository structure
 
-- `pcb-projects/` - PCB design files: schematics, layouts, and Gerber files for the custom boards
-- `microcontroller-projects/` - Embedded C++/Arduino/MicroPython code for the ESP32 and other microcontrollers
-- `certificates/` - Team certificates and branding assets
+- [`MCU_Projects/Final System/`](MCU_Projects/Final%20System/) - Embedded C++/Arduino/MicroPython code for the ESP32 and other microcontrollers
+- [`PCB_Altium/ERC-boards/`](PCB_Altium/ERC-boards/) - PCB design files: schematics, layouts, and Gerber files for the custom boards
+- [`certificates/`](certificates/) - Team certificates and branding assets
 
 ## Certificates
 
